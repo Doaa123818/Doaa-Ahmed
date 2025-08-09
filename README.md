@@ -39,5 +39,3 @@ class DoaaAhmedKhamis:
     
     def say_hi():
         print("Welcome to my GitHub! Let's build AI-powered solutions together 🚀")
-
-
